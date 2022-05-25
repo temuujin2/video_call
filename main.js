@@ -1,5 +1,5 @@
 const APP_ID = "f64c2d72735f4abc9c048c29a699c82b"
-const TOKEN = "006f64c2d72735f4abc9c048c29a699c82bIADA5mTQFta/0x0idN1GRlHnhEWXvKtsSWKfiXUvy+Z/MvP/V5QAAAAAIgDTxV3A39KMYgQAAQDf0oxiAgDf0oxiAwDf0oxiBADf0oxi"
+const TOKEN = "006f64c2d72735f4abc9c048c29a699c82bIAD75wfc0zs4gk+6J818py+OysXKx5Q5ycMgO5BG6fyP2vP/V5QAAAAAIgB9OJJ5fNWOYgQAAQB71Y5iAgB71Y5iAwB71Y5iBAB71Y5i"
 const CHANNEL = "School join"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
